@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi there, I'm Hamais! 👋
 
 Welcome to my GitHub! I am a passionate student actively working towards my admission for a Bachelor's degree in **Artificial Intelligence, Data Science, and Computer Science**. I love turning complex data into actionable insights and building efficient software.
